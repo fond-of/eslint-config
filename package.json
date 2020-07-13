@@ -1,6 +1,6 @@
 {
   "name": "@fond-of/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Common eslint config for JavaScript projects at fond-of",
   "main": "index.json",
   "author": "Philipp Brumm",
