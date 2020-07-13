@@ -1,0 +1,11 @@
+{
+  "name": "@fond-of/eslint-config",
+  "version": "0.0.1",
+  "description": "Common eslint config for JavaScript projects at fond-of",
+  "main": "index.json",
+  "author": "Philipp Brumm",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-react-app": "^5.2.1"
+  }
+}
